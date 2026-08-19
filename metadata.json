@@ -1,0 +1,6 @@
+{
+  "name": "Last Word - آخر كلمة",
+  "description": "لعبة ورق اجتماعية وجماعية تعتمد على الخداع والتعاون والمهمات والأسرار (Social Tabletop Card Game)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
